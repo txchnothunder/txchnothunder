@@ -17,11 +17,18 @@
           }
         }
 
+        @font-face {
+          font-family: Athene;
+          src: URL('path/to/Athene.otf') format('opentype');
+          font-weight:normal
+          font-style:normal
+        }
+
         .container {
-          --color-main: #D1FD2A;
-          --color-primary: #2AFDC0;
-          --color-secondary: #572AFD;
-          --color-tertiary: #FD2A67;
+          --color-main: #C4F5F5;
+          --color-primary: #F5C4C4;
+          --color-secondary: #C4F5C4;
+          --color-tertiary: #C4C4F5;
 
           background: linear-gradient(
             -45deg,
@@ -39,9 +46,9 @@
           display: flex;
           justify-content: center;
           align-items: center;
-          color: black;
-
-          font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+          color: #EE9898;
+        
+          font-family: 'Athene.otf';
         }
 
       </style>
