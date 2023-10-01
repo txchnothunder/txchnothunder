@@ -1,4 +1,8 @@
-### Hi there 👋
+<!-- OWN WORK HERE-->
+
+## Hello there! My name is Ethan and I am a third-year Data Science transfer at UC Irvine.
+
+<!-- ADD LINK TO LINKEDIN, RESUME, AND EMAIL HERE-->
 
 <!--
 **txchnothunder/txchnothunder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
