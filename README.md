@@ -4,7 +4,14 @@
   </a>
 </div>
 
-## Hello there! My name is Ethan and I am a third-year Data Science transfer at UC Irvine.
+### I am a current third-year Data Science student at UC Irvine and an aspiring data scientist.
+
+Although I still have a lot to learn, I hope to develop user-friendly software so data analysis is simple, easy, and efficient
+for everyone to use.
+
+**Want to reach me?** Send me an [email](mailto:ethanlw1@uci.edu) and I'll respond as soon as possible!
+
+
 
 <!-- ADD LINK TO LINKEDIN, RESUME, AND EMAIL HERE-->
 
@@ -13,12 +20,5 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 -->
