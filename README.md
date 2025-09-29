@@ -4,7 +4,7 @@
   </a>
 </div>
 
-### I am a current third-year Data Science student at UC Irvine and an aspiring data scientist.
+### I am a current Master of Data Science student at UC Irvine and an aspiring data scientist.
 
 My Github is still under construction as I'm migrating a lot of projects onto Github, but I hope you enjoy the ones available!
 Although I still have a lot to learn, I hope to develop user-friendly software so data analysis is simple, easy, and efficient
