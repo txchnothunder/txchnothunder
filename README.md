@@ -4,23 +4,12 @@
   </a>
 </div>
 
-### I am a current Master of Data Science student at UC Irvine and an aspiring data scientist.
+### Hi, I'm Ethan!
 
-My Github is still under construction as I'm migrating a lot of projects onto Github, but I hope you enjoy the ones available!
-Although I still have a lot to learn, I hope to develop user-friendly software so data analysis is simple, easy, and efficient
-for everyone to use.
-Feel free to give any advice or feedback, as I wish to learn as much and as many things as possible to improve myself!
+I'm a Master's student in Data Science at UC Irvine, graduating in December 2026. I love taking messy, complex data and turning it into something clear and easy to understand.
 
-**Want to reach me?** Send me an [email](mailto:ethanlw1@uci.edu) and I'll respond as soon as possible!
+**What I'm up to right now.** I'm working in a neuroscience lab, decoding brain signals recorded from rats, and interning at the California Air Resources Board, where I'm helping map out and modernize a legacy VBA modeling system.
 
+**See my work.** If you'd like to see my projects in a more professional setting, complete with slides, posters, and other visualizations, check out my website at [txchnothunder.github.io](https://txchnothunder.github.io).
 
-
-<!-- ADD LINK TO LINKEDIN, RESUME, AND EMAIL HERE-->
-
-<!--
-**txchnothunder/txchnothunder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-
--->
+**Want to reach me?** Send me an [email](mailto:ethanlw1@uci.edu) and I'll respond as soon as I can. I'm always learning, so advice and feedback are welcome!
